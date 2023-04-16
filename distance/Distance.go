@@ -1,4 +1,4 @@
-package disstance
+package distance
 
 //import "fmt"
 //
